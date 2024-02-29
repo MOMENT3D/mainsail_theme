@@ -5,4 +5,4 @@
     sudo -u biqu bash ~/mainsail_theme/install.sh
 
 This will create an editable custom.css file and symlink the base theme files
-into `~/home/biqu`/printer_data/config/.theme`.
+into ~/printer_data/config/.theme`.
